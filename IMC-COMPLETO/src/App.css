@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-  background-color: rgba(165, 163, 163, 0.492); /* Fundo semi-transparente para o formulário */
+  background-color: rgba(165, 163, 163, 0.492); 
   padding: 25px;
   border-radius: 10px;
   display: flex;
